@@ -1,6 +1,6 @@
 # Rovolution	
 
-![Discord Logo](https://i.ibb.co/kB9yTD1/Dark-Studio.png)
+![Discord Logo](https://i.ibb.co/pfzqxPZ/ROBLOX-Studio-2017-1.jpg)
  - - -
 
 ## Why use Rovolution?
