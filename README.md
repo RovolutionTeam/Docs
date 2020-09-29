@@ -10,7 +10,6 @@
 4. Rovolution has a incredibly active support team and Data Security team, check out the support server to make a Data Delection Request, a Security Related issues, bug or just General Support.
 5. The bot is **100% Free**, we have no intention is make the bot paid and you have full access to every command, one day we may need to ask for donations to pay for server infrastructure but we believe every user should get the same experience. There is no role bind limits and never will be.
 - - - -
-:::warning
 ### Rovolution Permissions
 Rovolution ask for quite a few permissions, for quite setup just leave on default however if you are paranoid about securing your servers here are the permissions the bot requires for basic functionality.
 ```
@@ -27,7 +26,7 @@ Connect
 Speak
 Use Voice Activity
 ```
-:::
+
 - - -
 ## How to use Rovolution
 Now you have heard how great Rovolution is how do you use it?
@@ -209,14 +208,11 @@ To make full use of the bot make sure to run the `!verifyChannel #channel` comma
 
 **If you accidently kick the bot and decide to invite it back it will remember your previous role binds and settings**
 
-:::info
+
 ## Remember to join the support server if you need any help. https://discord.gg/xXPuh7b
-:::
-::: danger
+
 ### Security and Data Retention Policy.
 
 To report a Data Breach or security issue please head to the support server and make a report.
 
 If for any reason you need to get your data deleted, head to the support server and submit a data deletion request and in Compliance with GDPR policies we will delete all you data within 72 hours. To delete server info (rolebinds) you need to be the server owner and make a data deletion request.
-
-:::
