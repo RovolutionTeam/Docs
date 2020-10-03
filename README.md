@@ -1,6 +1,7 @@
 # Rovolution	
 
 ![Discord Logo](https://i.ibb.co/pfzqxPZ/ROBLOX-Studio-2017-1.jpg)
+[Bot installation Link](https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=8&scope=bot)
  - - -
 
 ## Why use Rovolution?
@@ -30,9 +31,11 @@ Use Voice Activity
 - - -
 ## How to use Rovolution
 Now you have heard how great Rovolution is how do you use it?
+### First step get the bot in your server [click here](https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=8&scope=bot)
+
 ### Quick Installation
 Quickly get Rovolution working as a server defender in your group.
-1. Download the bot using the link above.
+1. Get the bot in your server using the link above, or click here [click here](https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=8&scope=bot).
 2. Next step give yourself the `Database Manager` Role so you can edit Rovolution Server Configs
 3. Run `!verifyChannel #tagchannel` Make sure you take the channel corectly. You don't have to run this command, however people will be able to verify anywhere, and people won't get Auto Verified so we recommend running this command.
 4. The bot will work now and Auto Verify will be on so anyone joining who has verified with Rovolution or RoVer will get the Role `Verified`.
